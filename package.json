@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://kishiro-lab.github.io/practice04",
+  "homepage": "/docs",
   "directories": {
     "doc": "docs"
   },

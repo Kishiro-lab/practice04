@@ -6,7 +6,7 @@ import { HelmetProvider } from 'react-helmet-async'
 
 createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename="https://kishiro-lab.github.io/practice04">
+    <BrowserRouter basename="/docs">
       <HelmetProvider>
         <App />
       </HelmetProvider>
