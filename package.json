@@ -9,7 +9,9 @@
   "scripts": {
     "build": "webpack",
     "watch": "webpack --watch",
-    "start": "webpack serve"
+    "start": "webpack serve",
+    "predeploy": "npm webpack --mode production",
+    "deploy": "gh-pages -d build"
   },
   "keywords": [],
   "author": "Kishiro",
