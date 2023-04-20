@@ -13,6 +13,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d ."
   },
+  "homepage": "https://kishiro-lab.github.io/practice04",
   "keywords": [],
   "author": "Kishiro",
   "license": "MIT",
